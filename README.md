@@ -1,7 +1,7 @@
 # medical-disease-analysis-using-gpt4vision
 
 
-### HOw to run:
+### How to run:
 
 1. Create a new environment
 
